@@ -1,3 +1,6 @@
+# experiment: Image-handling-pixel-transformation-using-opencv
+# NAME:Dharshini.S
+# Reg no:212224230061
 
 
 ## AIM:
